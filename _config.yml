@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiao Li"
-  avatar           : "profile.png"
+  avatar           : "logo_photo.JPG" #"profile.png"
   bio              : "Ph.D. student at EECS, University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :

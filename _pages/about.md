@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![myimg](https://github.com/Heimine/Heimine.github.io/blob/master/images/profile_photo.JPG){: width="350px" style="float:left; padding-right:40px" }
+![myimg](https://github.com/Heimine/Heimine.github.io/blob/master/images/profile_photo.JPG?raw=true){: width="350px" style="float:left; padding-right:40px" }
 
 # About Me        
 * I am a Ph.D. student at [EECS](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/), advised by [Prof. Qing Qu](https://qingqu.engin.umich.edu/). Before joining Umich, I received my undergraduate degree from the [University of Washington](https://www.washington.edu/), majoring in Mathematics, followed by a Master's degree from [NYU](https://cds.nyu.edu/) with a major in Data Science.

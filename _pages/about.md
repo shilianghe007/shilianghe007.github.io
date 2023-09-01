@@ -19,5 +19,5 @@ redirect_from:
 * <b>\[May 2023\]</b> I'm joining [Samsung Research America](https://sra.samsung.com/) as a Summer Research Intern.
 
 # Academic Services
-* Conference Reviewer: NeurIPS 2022-2023, ICML 2022-2023, CPAL 2024.
+* Conference Reviewer: NeurIPS 2022-2023, ICML 2022-2023, ICLR 2024.
 

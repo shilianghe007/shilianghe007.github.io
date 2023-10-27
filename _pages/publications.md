@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 \* indicates equal contribution
+
+<b>[Neural Collapse in Multi-label Learning with Pick-all-label Loss](https://arxiv.org/abs/2310.15903)</b><br>
+Pengyu Li\*, Yutong Wang\*, <b>Xiao Li</b>, Qing Qu Preprint 2023.
+
+<b>[Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)</b><br>
+Yuexiang Zhai, Shengbang Tong, <b>Xiao Li</b>, Mu Cai, Qing Qu, Yong Jae Lee, Yi Ma. Preprint 2023.
   
 <b>[Principled and Efficient Transfer Learning of Deep Models via Neural Collapse](https://arxiv.org/abs/2212.12206)</b><br>
 <b>Xiao Li\*</b>, Sheng Liu\*, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu. Preprint 2023.

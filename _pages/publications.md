@@ -8,7 +8,8 @@ author_profile: true
 \* indicates equal contribution
 
 <b>[Dynamic Low-rank Estimation for Transformer-based Language Models](https://aclanthology.org/2023.findings-emnlp.621/)</b><br>
-Ting Hua\*, <b>Xiao Li\*</b>, Shangqian Gao, Yen-Chang Hsu, Yilin Shen, Hongxia Jin. EMNLP 2023 Findings.
+Ting Hua\*, <b>Xiao Li\*</b>, Shangqian Gao, Yen-Chang Hsu, Yilin Shen, Hongxia Jin.
+<i>The 2023 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2023 Findings</b>.
 
 <b>[Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination](https://arxiv.org/abs/2311.02960)</b><br>
 Peng Wang\*, <b>Xiao Li\*</b>, Can Yaras, Zhihui Zhu, Laura Balzano, Wei Hu, Qing Qu. Preprint 2023.

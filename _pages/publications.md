@@ -7,7 +7,7 @@ author_profile: true
 
 \* indicates equal contribution
 
-<b>[Dynamic Low-rank Estimation for Transformer-based Language Models](https://aclanthology.org/2023.findings-emnlp.621/)</b><br>
+<b>[Dynamic Low-rank Estimation for Transformer-based Language Models](https://aclanthology.org/2023.findings-emnlp.621.pdf)</b><br>
 Ting Hua\*, <b>Xiao Li\*</b>, Shangqian Gao, Yen-Chang Hsu, Yilin Shen, Hongxia Jin.
 <i>The 2023 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2023 Findings</b>.
 

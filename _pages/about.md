@@ -16,8 +16,10 @@ redirect_from:
 * My research interests lie in representation learning, focusing particularly on the identification and effective utilization of low-dimensional structures and dynamics of deep networks. Besides, I'm also interested in robust deep learning, and Super-resolution microspcopy.
 
 # News
+* <b>\[May 2024\]</b> One [paper](https://openreview.net/forum?id=o8r84MzTQB) accepted at TMLR, one [paper](https://openreview.net/pdf/74d22c9d5f0de7996fc923e5d0e5128fbcd6ab1d.pdf) accepted at ICML 2024.
 * <b>\[May 2023\]</b> I'm joining [Samsung Research America](https://sra.samsung.com/) as a Summer Research Intern.
 
 # Academic Services
-* Conference Reviewer: NeurIPS 2022-2023, ICML 2022-2023, ICLR 2024.
+* Conference Reviewer: NeurIPS 2022-2024, ICML 2022-2024, ICLR 2024.
+* Journal Reviewer: JMLR
 

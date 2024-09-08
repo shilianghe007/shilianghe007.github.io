@@ -1,4 +1,4 @@
-A Github Pages template for academic websites. This was forked (then detached) from [Xiao Li's personal website](https://github.com/Heimine/Heimine.github.io), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+A Github Pages template for academic websites. This was forked (then detached) from [Xiao Li's personal website](https://github.com/Heimine/Heimine.github.io).
 
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 

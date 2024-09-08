@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 Address: Electrical & Computer Engineering, University of Michigan<br>
-		 Room 4402, 1301 Beal Ave, Ann Arbor, MI<br>
-Email: xlxiao [at] umich.edu
+		 Room 4400, 1301 Beal Ave, Ann Arbor, MI<br>
+Email: lhshi [at] umich.edu
 
-<a href="https://clustrmaps.com/site/1bw52"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ecH0E95LvbVLWQESMT1CFl6yHINbwN0z-TopKBVMelE&cl=ffffff" /></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FOw3TN0L1yDQCTYIbE1dNB4DFgsA59VFLVuSut6y5fY"></script>

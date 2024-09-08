@@ -15,7 +15,7 @@ redirect_from:
 
 * My research interests broadly encompass topics in machine learning, algorithms, and their theory, including representation learning (for foundation models), adversarial robustness, domain shifts, and high-dimensional statistics. I prefer to use mathematical tools to design algorithms and explain intriguing phenomena observed in experiments, providing insights for further algorithm development.
 
-* I am open to talking with anyone interested in my research or simply looking to chat about life in Ann Arbor <p>&#xXXXX</p>.
+* I am open to talking with anyone interested in my research or simply looking to chat about life in Ann Arbor 😊.
 
 
 # Academic Services

@@ -14,14 +14,6 @@
     {% endif %}
   </div>
 
-  <style>
-    .author__avatar {
-      width: 150px;  
-      height: 150px;
-      object-fit: cover; 
-    }
-  </style>
-
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}

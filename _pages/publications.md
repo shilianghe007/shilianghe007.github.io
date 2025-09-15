@@ -9,7 +9,7 @@ author_profile: true
 
 <b>[A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective](https://openreview.net/forum?id=vvwpY99gXj)</b><br>
 <b>Lianghe Shi\*</b>, Meng Wu\*, Huijie Zhang, Zekai Zhang, Molei Tao, Qing Qu.
-<i>ICML 2025 Workshop MemFM</i>. <b>ICML 2025 Workshop</b>.
+<i>ICML 2025 Workshop MemFM</i>. <b>ICML 2025 Workshop (<span style="color:blue;">Oral</span>)</b>.
 
 <b>[Adversarially robust unsupervised domain adaptation](https://www.sciencedirect.com/science/article/abs/pii/S000437022500102X)</b><br>
 <b>Lianghe Shi\*</b>, Weiwei Liu.

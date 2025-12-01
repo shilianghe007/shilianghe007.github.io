@@ -39,7 +39,7 @@ redirect_from:
 <i>37th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2023</b>.
 
 # Teaching
-Graduate Student Instructor of EECS 501: Probability and Random Processes (Fall 2025)
+* Graduate Student Instructor of EECS 501: Probability and Random Processes (Fall 2025)
 
 # Academic Services
 * Conference Reviewer: NeurIPS, ICML, ICLR, AISTATS.

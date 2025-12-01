@@ -16,8 +16,8 @@ redirect_from:
 * My research interests lie in diffusion models and vision-language models, with a particular focus on model collapse and representation learning. I prefer to use mathematical tools to design algorithms and explain intriguing phenomena observed in experiments, providing insights for further algorithm development.
 
 # Recent News
-* 12/2/2025: I will be attending NeurIPS 2025. Looking forward to meeting with you!
-* 9/26/2025: Passing the qualifying exam! Moving to the next step.
+* 12/2/2025: I will be attending NeurIPS 2025. See you there.
+* 9/26/2025: Passing the qualifying exam!
 * 9/18/2025: One paper accepted by NeurIPS 2025 as a spotlight paper.
 
 # Publications

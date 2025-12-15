@@ -16,9 +16,6 @@ redirect_from:
 * My long-term goal is to build general-purpose, robust, and efficient generative models, including diffusion models and vision-language models. I am particularly interested in addressing some limitations of current VLMs, such as visual hallucination and language bias, and in developing principled methods that improve generalization and robustness.
 I study representation learning to understand the internal mechanisms of modern generative models, analyzing how semantic and spurious features affect robustness, reasoning, and out-of-distribution performance.
 
-\textbf{Representation Learning.}\ \
-I study representation learning to understand the internal mechanisms of generative models, analyzing how semantic and spurious features affect robustness, reasoning, and out-of-distribution performance.
-
 # Recent News
 * 12/2/2025: I will be attending NeurIPS 2025. See you there.
 * 9/26/2025: Passing the qualifying exam!

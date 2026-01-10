@@ -10,6 +10,9 @@ author_profile: true
 <b>[A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective](https://arxiv.org/abs/2509.16499)</b><br>
 <b>Lianghe Shi\*</b>, Meng Wu\*, Huijie Zhang, Zekai Zhang, Molei Tao, Qing Qu. <br> <b>ICML 2025 Workshop (<span style="color:red;">Oral</span>) and NeurIPS 2025 (<span style="color:blue;">Spotlight</span>)</b>. <br> [Website](https://shilianghe007.github.io//model-collapse/index.html)
 
+<b>[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963)</b><br>
+Zekai Zhang\*, Xiao Li\*, Xiang Li, <b>Lianghe Shi</b>, Meng Wu, Molei Tao, Qing Qu. <br> <b>DeepMath (<span style="color:red;">Oral</span>)</b>. <br>
+
 <b>[Adversarially robust unsupervised domain adaptation](https://www.sciencedirect.com/science/article/abs/pii/S000437022500102X)</b><br>
 <b>Lianghe Shi\*</b>, Weiwei Liu.
 <i>The journal of Artificial Intelligence</i>. <b>AIJ</b>.

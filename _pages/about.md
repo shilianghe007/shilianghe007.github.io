@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 * Hi! I am a second-year Ph.D. student at [EECS](https://eecs.engin.umich.edu/), [University of Michigan](https://umich.edu/), advised by [Prof. Qing Qu](https://qingqu.engin.umich.edu/). Before joining U-M, I received my undergraduate and master's degrees from the [Wuhan University](https://en.whu.edu.cn/), majoring in software engineering and computer science, respectively, advised by [Prof. Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage/).
-* My long-term goal is to build general-purpose, robust, and efficient generative models, including diffusion models and vision-language models. I am particularly interested in addressing some limitations of current VLMs---such as visual hallucination, language bias, and model collapse---and in developing principled methods that improve generalization and robustness. I am also interested in the "competition" between diffusion LLM and autoregressive LLM.
+<!-- * My long-term goal is to build general-purpose, robust, and efficient generative models, including diffusion models and vision-language models. I am particularly interested in addressing some limitations of current VLMs---such as visual hallucination, language bias, and model collapse---and in developing principled methods that improve generalization and robustness. I am also interested in the "competition" between diffusion LLM and autoregressive LLM.-->
 <!-- * I study representation learning to understand the internal mechanisms of modern generative models, analyzing how semantic and spurious features affect robustness, reasoning, and out-of-distribution performance. I’d be happy to chat and collaborate if we find overlapping research interests! -->
 
 # Recent News

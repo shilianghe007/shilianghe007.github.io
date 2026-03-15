@@ -17,8 +17,8 @@ redirect_from:
 <!-- * I study representation learning to understand the internal mechanisms of modern generative models, analyzing how semantic and spurious features affect robustness, reasoning, and out-of-distribution performance. I’d be happy to chat and collaborate if we find overlapping research interests! -->
 
 # Recent News
-* 12/2/2025: I will be attending NeurIPS 2025. See you there.
-* 9/26/2025: Passing the qualifying exam!
+* 1/25/2026: One paper accepted by ICLR 2026.
+* 9/26/2025: Passing the qualifying exam and become a PhD candidate.
 * 9/18/2025: One paper accepted by NeurIPS 2025 as a spotlight paper.
 
 # Publications

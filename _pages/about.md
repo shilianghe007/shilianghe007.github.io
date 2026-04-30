@@ -33,7 +33,7 @@ attacks.
 <b>Lianghe Shi\*</b>, Meng Wu\*, Huijie Zhang, Zekai Zhang, Molei Tao, Qing Qu. <br> <b>ICML 2025 Workshop (<span style="color:red;">Oral</span>) and NeurIPS 2025 (<span style="color:blue;">Spotlight</span>)</b>. <br> [Website](https://shilianghe007.github.io//model-collapse/index.html)
 
 <b>[Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](https://shilianghe007.github.io/)</b><br>
-Xiao Li, Yixuan Jia, Zekai Zhang, Xiang Li, <b>Lianghe Shi</b>, Jinxin Zhou, Zhihui Zhu, Liyue Shen, Qing Qu.<br> <b>ICLR 2026 and DeepMath (<span style="color:red;">Oral</span>)</b>. <br>
+Xiao Li, Yixuan Jia, Zekai Zhang, Xiang Li, <b>Lianghe Shi</b>, Jinxin Zhou, Zhihui Zhu, Liyue Shen, Qing Qu.<br> <b>ICML 2026</b>. <br>
 
 <b>[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963)</b><br>
 Zekai Zhang\*, Xiao Li\*, Xiang Li, <b>Lianghe Shi</b>, Meng Wu, Molei Tao, Qing Qu. <br> <b>ICLR 2026 and DeepMath (<span style="color:red;">Oral</span>)</b>. <br>

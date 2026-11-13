@@ -11,18 +11,18 @@ redirect_from:
 <!-- ![myimg](https://github.com/Heimine/Heimine.github.io/blob/master/images/profile_photo.JPG?raw=true){: width="350px" style="float:right; padding-left:30px" } -->
 
 # About Me
-* Hi! I am a third-year Ph.D. student at [EECS](https://eecs.engin.umich.edu/), [University of Michigan](https://umich.edu/), advised by [Prof. Qing Qu](https://qingqu.engin.umich.edu/). Before joining U-M, I received my undergraduate and master's degrees from the [Wuhan University](https://en.whu.edu.cn/), majoring in software engineering and computer science, respectively, advised by [Prof. Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage/).
-* Generative AI and Machine Learning. I work on the foundations and applications of generative models, including diffusion models, diffusion language models, in-context learning in world models, generalization and memorization, representation learning, and AI for science.
-* Machine Learning. I also investigated out-of-domain generalization and adversarial robustness in AI
+* Hi! I am a **third-year Ph.D. student** at [EECS](https://eecs.engin.umich.edu/), [University of Michigan](https://umich.edu/), advised by [Prof. Qing Qu](https://qingqu.engin.umich.edu/). Before joining U-M, I received my undergraduate and master's degrees from the [Wuhan University](https://en.whu.edu.cn/), majoring in software engineering and computer science, respectively, advised by [Prof. Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage/).
+* **Generative AI and Machine Learning.** I work on the foundations and applications of generative models, including diffusion models, diffusion language models, in-context learning in world models, generalization and memorization, representation learning, and AI for science.
+* **Machine Learning.** I also investigated out-of-domain generalization and adversarial robustness in AI
 systems, with the goal of building models that remain reliable under distribution shifts and adversarial
 attacks.
 
 # Recent News
-* 5/14/2026: New preprint [ForcingDAS](https://arxiv.org/abs/2605.14285) on unified and robust data assimilation via diffusion forcing is released on arXiv.
-* 4/30/2026: [One paper](https://arxiv.org/abs/2606.09718) on evaluating the representation space of diffusion models via self-supervised principles accepted by ICML 2026.
-* 1/25/2026: [One paper](https://arxiv.org/pdf/2512.20963) on how a balanced representation space leads to generalization in diffusion models accepted by ICLR 2026.
-* 9/26/2025: Passing the qualifying exam and become a PhD candidate.
-* 9/18/2025: [One paper](https://arxiv.org/abs/2509.16499) on model collapse from a generalization-to-memorization perspective accepted by NeurIPS 2025 as a spotlight paper.
+* **5/14/2026**: [ForcingDAS](https://arxiv.org/abs/2605.14285) (data assimilation via diffusion forcing) released on arXiv.
+* **4/30/2026**: [Evaluating diffusion representations via self-supervision](https://arxiv.org/abs/2606.09718) accepted by ICML 2026.
+* **1/25/2026**: [Balanced representations for diffusion generalization](https://arxiv.org/pdf/2512.20963) accepted by ICLR 2026.
+* **9/26/2025**: Passed the qualifying exam and became a Ph.D. candidate.
+* **9/18/2025**: [Model collapse through generalization vs. memorization](https://arxiv.org/abs/2509.16499) accepted by NeurIPS 2025 (Spotlight).
 
 # Publications
 <!-- \* indicates equal contribution -->

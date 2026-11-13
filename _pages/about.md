@@ -19,10 +19,10 @@ attacks.
 
 # Recent News
 * 5/14/2026: New preprint [ForcingDAS](https://arxiv.org/abs/2605.14285) on unified and robust data assimilation via diffusion forcing is released on arXiv.
-* 4/30/2026: [One paper](https://arxiv.org/abs/2606.09718) accepted by ICML 2026.
-* 1/25/2026: [One paper](https://arxiv.org/pdf/2512.20963) accepted by ICLR 2026.
+* 4/30/2026: [One paper](https://arxiv.org/abs/2606.09718) on evaluating the representation space of diffusion models via self-supervised principles accepted by ICML 2026.
+* 1/25/2026: [One paper](https://arxiv.org/pdf/2512.20963) on how a balanced representation space leads to generalization in diffusion models accepted by ICLR 2026.
 * 9/26/2025: Passing the qualifying exam and become a PhD candidate.
-* 9/18/2025: [One paper](https://arxiv.org/abs/2509.16499) accepted by NeurIPS 2025 as a spotlight paper.
+* 9/18/2025: [One paper](https://arxiv.org/abs/2509.16499) on model collapse from a generalization-to-memorization perspective accepted by NeurIPS 2025 as a spotlight paper.
 
 # Publications
 <!-- \* indicates equal contribution -->
@@ -37,7 +37,7 @@ Xiao Li\*, Yixuan Jia\*, Zekai Zhang, Xiang Li, <b>Lianghe Shi</b>, Jinxin Zhou,
 Zekai Zhang\*, Xiao Li\*, Xiang Li, <b>Lianghe Shi</b>, Meng Wu, Molei Tao, Qing Qu. <br> <b>ICLR 2026 and DeepMath (<span style="color:red;">Oral</span>)</b>. <br>
 
 <b>[ForcingDAS: Unified and Robust Data Assimilation via Diffusion Forcing](https://arxiv.org/abs/2605.14285)</b><br>
-Yixuan Jia, Siyi Chen, Yida Pan, Xiao Li, <b>Lianghe Shi</b>, Chanyong Jung, Haijie Yuan, Ismail Alkhouri, Yue Cynthia Wu, Saiprasad Ravishankar, Jeffrey A. Fessler, Qing Qu. <br> <b>arXiv preprint</b>. <br> [Code](https://github.com/umjiayx/ForcingDAS)
+Yixuan Jia, Siyi Chen, Yida Pan, Xiao Li, <b>Lianghe Shi</b>, Chanyong Jung, Haijie Yuan, Ismail Alkhouri, Yue Cynthia Wu, Saiprasad Ravishankar, Jeffrey A. Fessler, Qing Qu. <br> <b>arXiv preprint</b>. <br>
 
 <b>[Adversarially robust unsupervised domain adaptation](https://www.sciencedirect.com/science/article/abs/pii/S000437022500102X)</b><br>
 <b>Lianghe Shi\*</b>, Weiwei Liu.

@@ -17,7 +17,7 @@ Xiao Li\*, Yixuan Jia\*, Zekai Zhang, Xiang Li, <b>Lianghe Shi</b>, Jinxin Zhou,
 Zekai Zhang\*, Xiao Li\*, Xiang Li, <b>Lianghe Shi</b>, Meng Wu, Molei Tao, Qing Qu. <br> <b>ICLR 2026 and DeepMath (<span style="color:red;">Oral</span>)</b>. <br>
 
 <b>[ForcingDAS: Unified and Robust Data Assimilation via Diffusion Forcing](https://arxiv.org/abs/2605.14285)</b><br>
-Yixuan Jia, Siyi Chen, Yida Pan, Xiao Li, <b>Lianghe Shi</b>, Chanyong Jung, Haijie Yuan, Ismail Alkhouri, Yue Cynthia Wu, Saiprasad Ravishankar, Jeffrey A. Fessler, Qing Qu. <br> <b>arXiv preprint</b>. <br> [Code](https://github.com/umjiayx/ForcingDAS)
+Yixuan Jia, Siyi Chen, Yida Pan, Xiao Li, <b>Lianghe Shi</b>, Chanyong Jung, Haijie Yuan, Ismail Alkhouri, Yue Cynthia Wu, Saiprasad Ravishankar, Jeffrey A. Fessler, Qing Qu. <br> <b>arXiv preprint</b>. <br>
 
 <b>[Adversarially robust unsupervised domain adaptation](https://www.sciencedirect.com/science/article/abs/pii/S000437022500102X)</b><br>
 <b>Lianghe Shi\*</b>, Weiwei Liu.

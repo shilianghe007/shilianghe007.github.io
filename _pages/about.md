@@ -18,11 +18,11 @@ systems, with the goal of building models that remain reliable under distributio
 attacks.
 
 # Recent News
-* **5/14/2026**: [ForcingDAS](https://arxiv.org/abs/2605.14285) (data assimilation via diffusion forcing) released on **arXiv**.
-* **4/30/2026**: [Evaluating diffusion representations via self-supervision](https://arxiv.org/abs/2606.09718) accepted by **ICML 2026**.
-* **1/25/2026**: [Balanced representations for diffusion generalization](https://arxiv.org/pdf/2512.20963) accepted by **ICLR 2026**.
-* **9/26/2025**: Passed the qualifying exam and became a Ph.D. candidate.
-* **9/18/2025**: [Model collapse through generalization vs. memorization](https://arxiv.org/abs/2509.16499) accepted by **NeurIPS 2025 (Spotlight)**.
+* 5/14/2026: [ForcingDAS](https://arxiv.org/abs/2605.14285) (data assimilation via diffusion forcing) released on **arXiv**.
+* 4/30/2026: [Evaluating diffusion representations via self-supervision](https://arxiv.org/abs/2606.09718) accepted by **ICML 2026**.
+* 1/25/2026: [Balanced representations for diffusion generalization](https://arxiv.org/pdf/2512.20963) accepted by **ICLR 2026**.
+* 9/26/2025: Passed the qualifying exam and became a Ph.D. candidate.
+* 9/18/2025: [Model collapse through generalization vs. memorization](https://arxiv.org/abs/2509.16499) accepted by **NeurIPS 2025 (Spotlight)**.
 
 # Publications
 <!-- \* indicates equal contribution -->

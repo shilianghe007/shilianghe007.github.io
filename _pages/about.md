@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 * Hi! I am a **third-year Ph.D. student** at [EECS](https://eecs.engin.umich.edu/), [University of Michigan](https://umich.edu/), advised by [Prof. Qing Qu](https://qingqu.engin.umich.edu/). Before joining U-M, I received my undergraduate and master's degrees from [Wuhan University](https://en.whu.edu.cn/), advised by [Prof. Weiwei Liu](https://sites.google.com/site/weiweiliuhomepage/).
-* **Generative AI and Machine Learning.** I work on the foundations and applications of generative models, including diffusion models, diffusion language models, in-context learning in world models, generalization and memorization, representation learning, and AI for science.
+* **Generative AI and Machine Learning.** I work on the foundations and applications of generative models, including diffusion models, diffusion language models, generalization and memorization, and in-context learning in world models.
 * **Machine Learning.** I also investigated out-of-domain generalization and adversarial robustness in AI
 systems, with the goal of building models that remain reliable under distribution shifts and adversarial
 attacks.
